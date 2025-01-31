@@ -24,9 +24,6 @@ git clone https://github.com/your-username/volatility-smile-heston.git
 cd volatility-smile-heston
 ```
 
-
-```
-
 ## Usage
 1. Open and run the Jupyter Notebook:
 
